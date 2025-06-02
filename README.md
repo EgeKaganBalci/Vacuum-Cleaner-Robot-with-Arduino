@@ -1,3 +1,21 @@
 # **Vacuum Cleaner Robot with Arduino**
 
-Otomatik bir şekilde mesafe ölçümü yapabilen, engelleri tespit edip buna yönelik kaçış manevraları yapabilen ve bu süreç içerisinde vakumm yapabilen üniversite ders projesidir.
+Otomatik bir şekilde mesafe ölçümü yapabilen, engelleri tespit edip buna yönelik kaçış manevraları yapabilen ve bu süreç içerisinde vakumm yapabilen üniversite ders projesidir. 
+
+### Malzemeler
+
+•	Ardunio Uno x1
+•	H Bridge L298N Motor Sürücüsü x1
+•	HC-SR04 Ultrasonic Distance x3
+•	Wheels with Micro Gearmotor HPCB (Sarı Uçlu Motor) x2
+•	Sarhoş Teker x1
+•	Infrared Proximity Sensor(IR Kızılötesi Sensör) x1
+•	LM2596 Voltaj Regülatörü x1
+•	9V GreenCell Pil x1
+•	Mini Breadboard x1
+•	Açma/Kapama Anahtar Buton x1
+•	12V DC Motor x1
+
+### Devre Diyagramı
+
+![Image](https://github.com/user-attachments/assets/2b398104-1a35-43db-982d-a518ce946835)
