@@ -19,3 +19,8 @@ Otomatik bir şekilde mesafe ölçümü yapabilen, engelleri tespit edip buna y�
 ### Devre Diyagramı
 
 ![Image](https://github.com/user-attachments/assets/2b398104-1a35-43db-982d-a518ce946835)
+
+
+### Bellek Yönetimi
+
+Proje doğrultusunda yazılan kod Arduino Uno'nun total hafızasının %11'ini (3572 byte) kaplamaktadır. Dinamik belleğinse %9'unu (202 byte) kaplamaktadır. 
